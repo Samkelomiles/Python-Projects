@@ -1,4 +1,5 @@
-
+#=============DAY 2====================
+#+++++++++++++++++++++++++++++++
 #=================== TIP CALCULATOR SECTION =======================
 print("Welcome to the tip calculator.\n")
 bill = float(input("What was the total bill: R"))
